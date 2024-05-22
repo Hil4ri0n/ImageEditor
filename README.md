@@ -1,6 +1,6 @@
 # ImageWizard
 <div align="center">
-    <img src="./ImageWizard_screenshot.png" alt="Game Screenshot" style="width: 70%; margin-right: 5%;" />
+    <img src="./ImageWizard_screenshot.png" alt="Game Screenshot" style="width: 50%; margin-right: 5%;" />
 </div>
 
 ## Description
