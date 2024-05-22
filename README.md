@@ -1,4 +1,7 @@
 # ImageWizard
+<div align="center">
+    <img src="./ImageWizard_screenshot.png" alt="Game Screenshot" style="width: 70%; margin-right: 5%;" />
+</div>
 
 ## Description
 ImageWizard is a versatile Bash script application for image editing and transformation. It leverages `ImageMagick` for image manipulation and `Zenity` for GUI dialogs, providing an intuitive user interface for a variety of image processing tasks.
